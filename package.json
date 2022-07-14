@@ -22,7 +22,13 @@
     "react-native-youtube-iframe": "^2.2.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "gh-pages": "^4.0.0"
   },
-  "private": true
+  "private": true,
+  "homepage": "https://mike-summ.github.io/taro-challenge/",
+  "scripts": {
+      "deploy": "gh-pages -d web-build",
+      "predeploy": "expo build:web"
+    }
 }
