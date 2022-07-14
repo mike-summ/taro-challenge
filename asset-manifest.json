@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/taro-challenge/static/js/app.f2ceab4e.chunk.js",
+    "app.js.map": "/taro-challenge/static/js/app.f2ceab4e.chunk.js.map",
+    "runtime~app.js": "/taro-challenge/static/js/runtime~app.715b8471.js",
+    "runtime~app.js.map": "/taro-challenge/static/js/runtime~app.715b8471.js.map",
+    "static/js/2.fcc9bdb6.chunk.js": "/taro-challenge/static/js/2.fcc9bdb6.chunk.js",
+    "static/js/2.fcc9bdb6.chunk.js.map": "/taro-challenge/static/js/2.fcc9bdb6.chunk.js.map",
+    "favicon-16.png": "/taro-challenge/favicon-16.png",
+    "favicon-32.png": "/taro-challenge/favicon-32.png",
+    "favicon.ico": "/taro-challenge/favicon.ico",
+    "index.html": "/taro-challenge/index.html",
+    "manifest.json": "/taro-challenge/manifest.json",
+    "serve.json": "/taro-challenge/serve.json",
+    "static/js/2.fcc9bdb6.chunk.js.LICENSE.txt": "/taro-challenge/static/js/2.fcc9bdb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.715b8471.js",
+    "static/js/2.fcc9bdb6.chunk.js",
+    "static/js/app.f2ceab4e.chunk.js"
+  ]
+}
