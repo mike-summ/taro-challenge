@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "taro-project",
+    "name": "Taro Challenge",
     "slug": "taro-project",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,7 +27,9 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name":"Taro Challenge",
+      "shortName": "Taro"
     }
   }
 }
