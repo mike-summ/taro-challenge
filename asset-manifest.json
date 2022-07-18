@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/taro-challenge/static/js/app.f2ceab4e.chunk.js",
-    "app.js.map": "/taro-challenge/static/js/app.f2ceab4e.chunk.js.map",
+    "app.js": "/taro-challenge/static/js/app.9b9f9be5.chunk.js",
+    "app.js.map": "/taro-challenge/static/js/app.9b9f9be5.chunk.js.map",
     "runtime~app.js": "/taro-challenge/static/js/runtime~app.715b8471.js",
     "runtime~app.js.map": "/taro-challenge/static/js/runtime~app.715b8471.js.map",
     "static/js/2.fcc9bdb6.chunk.js": "/taro-challenge/static/js/2.fcc9bdb6.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.715b8471.js",
     "static/js/2.fcc9bdb6.chunk.js",
-    "static/js/app.f2ceab4e.chunk.js"
+    "static/js/app.9b9f9be5.chunk.js"
   ]
 }
