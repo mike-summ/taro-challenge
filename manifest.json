@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Taro Challenge",
-  "short_name": "Taro",
+  "name": "Kiyo Challenge",
+  "short_name": "Kiyo",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
