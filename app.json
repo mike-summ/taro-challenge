@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Taro Challenge",
+    "name": "Kiyo Challenge",
     "slug": "taro-project",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,8 +28,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "name":"Taro Challenge",
-      "shortName": "Taro"
+      "name":"Kiyo Challenge",
+      "shortName": "Kiyo"
     }
   }
 }
