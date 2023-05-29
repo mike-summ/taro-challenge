@@ -3,6 +3,7 @@ import { Button, StyleSheet, Text, View } from 'react-native';
 import YoutubeIframe from 'react-native-youtube-iframe';
 import { useState } from 'react';
 import taro_data from './data/taro';
+import kiyo_data from './data/kiyo';
 import { useEffect } from 'react';
 import YoutubeEmbed from './components/youtube-embed';
 import AsyncStorage from '@react-native-community/async-storage';
@@ -52,7 +53,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={{fontSize: 30, padding: 10, color: 'white'}}>Let's do the Taro Challenge!</Text>
+      <Text style={{fontSize: 30, padding: 10, color: 'white'}}>Let's do the Kiyo Challenge!</Text>
       {view}
       <View style={styles.control}>
         <Button 
@@ -68,13 +69,13 @@ export default function App() {
           color="#fb8500"
         />
 
-        <Text style={styles.ui}>{index} / {taro_data.length}</Text>
+        <Text style={styles.ui}>{index} / {kiyo_data.length}</Text>
         
         <Button 
           style={styles.ui}
           onPress={() => {
             let i = index;
-            if (i <  taro_data.length) {
+            if (i <  kiyo_data.length) {
               i++;
               setIndex(i);
             }
