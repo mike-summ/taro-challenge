@@ -11,6 +11,7 @@ Written in React Native and deployed with Expo-Cli.
 ## Future improvements
 - Add missing videos
 - Ability to input a number for the video index
+- Add other YouTubers?
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/96584139/179034635-1c4bd891-2de6-4a32-ae82-fa77be581ec1.png)
